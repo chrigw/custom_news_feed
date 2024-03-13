@@ -1,0 +1,37 @@
+{
+  "PanelTitle": "Neuigkeiten",
+  "LinkSectionTitle": "Wichtige Links",
+  "PanelTitleFeed": "News",
+  "PanelTitleFeedRepository": "News Repository",
+  "ReadButtonLabel": "Als gelesen markieren",
+  "ReadAllButtonLabel": "Alles als gelesen markieren",
+  "NewsArticles": [
+    {
+      "Title": "Neue Version von TopDeutschland verfügbar",
+      "Date": "2024-03-12",
+      "Text": "Es ist eine neue Version von TopDeutschland verfügbar und sie kann unter folgendem Link heruntergeladen werden:",
+      "LinkUrl": "https://gdz.bkg.bund.de",
+      "LinkTitle": "Download-Link",
+      "ImageUrl": "https://gdz.bkg.bund.de/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/d/t/dtk500_neu_detail.png",
+      "StartPublishingDate": "2024-01-01T00:00:00.000Z",
+      "EndPublishingDate": "2024-12-31T23:59:59.000Z"
+    }
+  ],
+
+  "Links": [
+    {
+      "Url": "https://www.bkg.bund.de/DE/Home/home.html",
+      "LinkTitle": "Bundesamt für Kartographie und Geodäsie"
+    }
+  ],
+
+  "PinnedMessage": {
+    "Text": "Es ist eine neue Version von TopDeutschland verfügbar.",
+    "Importance": "medium",
+    "StartPublishingDate": "2024-01-01T00:00:00.000Z",
+    "EndPublishingDate": "2024-12-31T23:59:59.000Z"
+  },
+  "PathToConfigurationFileLabel": "https://files.wheregroup.com/s/x6DYSJ9XBmGyBC4",
+  "OpenPanelOnNewsCheckBoxLabel": "Open panel if there are new notifications",
+  "NewsRefreshInterval": 60
+}
