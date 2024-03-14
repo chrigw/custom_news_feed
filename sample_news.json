@@ -32,6 +32,6 @@
     "EndPublishingDate": "2024-12-31T23:59:59.000Z"
   },
   "PathToConfigurationFileLabel": "https://raw.githubusercontent.com/chrigw/custom_news_feed/main/sample_news.json",
-  "OpenPanelOnNewsCheckBoxLabel": "Open panel if there are new notifications",
+  "OpenPanelOnNewsCheckBoxLabel": true,
   "NewsRefreshInterval": 60
 }
