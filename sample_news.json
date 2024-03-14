@@ -25,6 +25,16 @@
       "ImageUrl": "https://gdz.bkg.bund.de/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/d/t/dtk500_neu_detail.png",
       "StartPublishingDate": "2024-01-01T00:00:00.000Z",
       "EndPublishingDate": "2024-12-31T23:59:59.000Z"
+    },
+    {
+      "Title": "Und noch eine",
+      "Date": "2024-03-14",
+      "Text": "Es ist eine neue Version von TopDeutschland verfügbar. Sie kann unter folgendem Link heruntergeladen werden:",
+      "LinkUrl": "https://gdz.bkg.bund.de",
+      "LinkTitle": "Download-Link",
+      "ImageUrl": "https://gdz.bkg.bund.de/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/d/t/dtk500_neu_detail.png",
+      "StartPublishingDate": "2024-01-01T00:00:00.000Z",
+      "EndPublishingDate": "2024-12-31T23:59:59.000Z"
     }
   ],
 
