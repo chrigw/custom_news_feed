@@ -31,7 +31,7 @@
     "StartPublishingDate": "2024-01-01T00:00:00.000Z",
     "EndPublishingDate": "2024-12-31T23:59:59.000Z"
   },
-  "PathToConfigurationFileLabel": "https://files.wheregroup.com/s/x6DYSJ9XBmGyBC4",
+  "PathToConfigurationFileLabel": "https://raw.githubusercontent.com/chrigw/custom_news_feed/main/sample_news.json",
   "OpenPanelOnNewsCheckBoxLabel": "Open panel if there are new notifications",
   "NewsRefreshInterval": 60
 }
