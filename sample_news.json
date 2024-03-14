@@ -33,5 +33,5 @@
   },
   "PathToConfigurationFileLabel": "Konfigurationsdatei auswählen (lokal oder per URL)",
   "OpenPanelOnNewsCheckBoxLabel": "Öffne Panel, sobald es Neuigkeiten gibt",
-  "NewsRefreshInterval": 0.02
+  "NewsRefreshInterval": 5
 }
