@@ -33,5 +33,5 @@
   },
   "PathToConfigurationFileLabel": "https://raw.githubusercontent.com/chrigw/custom_news_feed/main/sample_news.json",
   "OpenPanelOnNewsCheckBoxLabel": "Öffne Panel, sobald es Neuigkeiten gibt",
-  "NewsRefreshInterval": 60
+  "NewsRefreshInterval": 0.02
 }
